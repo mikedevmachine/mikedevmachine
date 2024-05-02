@@ -1,5 +1,7 @@
 ### Hi there!!! I`m Miguel 👋
 
+![mikedevmachine's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikedevmachine&theme=vue-dark&hide_border=true)
+
 
 **mikedevmachine/mikedevmachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
