@@ -1,10 +1,14 @@
 ### Hi there!!! I`m Miguel 👋
 <details>
   <summary><b>👤 About Me</b></summary>
-  xdddddddddddddddddddddd
+  <blockquote>
+
+ABOUTTTT ME
+</blockquote>
+    
 </details>
 <details>
-  <summary><b>👤 Show Stats</b></summary>
+  <summary><b> Metrics </b></summary>
   
 ![mikedevmachine's Stats](https://github-readme-stats.vercel.app/api?username=mikedevmachine&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
